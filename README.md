@@ -11,7 +11,7 @@
 
 <img src="https://github.com/svr666/svr666/blob/master/gifs/coding.gif" alt="coding ?">
 
-<b>Skills :</b> <code>Pirate</code> | <code>Kang</code> | <code>Copy</code> | <code>Replacer</code> | <code>Adichumaatal</code> | <code>Forker</code> | <code>VIP</code>
+<b>Skills :</b> <code>Pirate</code> | <code>Kanger</code> | <code>Copy</code> | <code>Replacer</code> | <code>Adichumaatal</code> | <code>Forker</code> | <code>VIP</code>
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=Hashimkp&hide=prs,issues&show_icons=true&title_color=56ec99&text_color=ececec&icon_color=00ffba&bg_color=2c2a2a" alt="svr's github stats">
 
