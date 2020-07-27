@@ -3,7 +3,7 @@
 
 <div align="center" width="50">
 
-<code>I'm a Computer science engineer. 😎</code>
+<code>Still Learning Some Thing New.... 😎</code>
 <code>I like doing Nothing:) ❤</code>
 <code>CTRL+V Expert 😉</code>
 
