@@ -1,13 +1,13 @@
 <div align="center">
-<h2> Hi there <img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">, my name is Sreeraj V R</h2>
+<h2>Hi there <img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">, my name is Sreeraj V R</h2>
 
 <div align="center" width="50">
 
-<code>I'm a Computer science engineer 😎</code>
-<code>I like doing animations in Adobe After Effects.❤</code>
-<code>Anime lover 😉</code>
+<code>I'm a Computer science engineer. 😎</code>
+<code>I like doing animations in Adobe After Effects. ❤</code>
+<code>Anime lover. 😉</code>
 
-<code>I spend my free time on <a href="https://t.me/svr666">Telegram</a>😇</code>
+<code>I spend my free time on <a href="https://t.me/svr666">Telegram</a>. 😇</code>
 
 <img src="https://github.com/svr666/svr666/blob/master/gifs/coding.gif" alt="coding ?">
 
