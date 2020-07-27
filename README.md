@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Sreeraj V R
 I'm a Computer science engineer 😎
+
 I'm a Anime lover 😉
+
 I spend my free time on [Telegram](https://t.me/svr666) 😇
 
 Skills: Python | C Sharp | PHP | C | MySQL | HTML | CSS
