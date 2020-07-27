@@ -15,6 +15,6 @@
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=Hashimkp&hide=prs,issues&show_icons=true&title_color=56ec99&text_color=ececec&icon_color=00ffba&bg_color=2c2a2a" alt="svr's github stats">
 
-<br><img src="https://gpvc.artur/svr666io.dev" alt="Profile views">
+<br><img src="https://gpvc.arturio.dev/Hashimkp" alt="Profile views">
 
 </div>
