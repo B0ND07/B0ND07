@@ -10,7 +10,7 @@
 
 <code>Contact On <a href="https://t.me/RiDerOO7">Telegram</a>. 😇</code>
 
-<img src="https://github.com/svr666/svr666/blob/master/gifs/coding.gif" alt="coding ?">
+![](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
 <b>Skills :</b> <code>Pirate</code> | <code>Kanger</code> | <code>Copy</code> | <code>Replacer</code> | <code>Adichumaatal</code> | <code>Forker</code> | <code>VIP</code>
 
