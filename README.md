@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Hi there <img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">, My Name Is Knight RiDer</h2>
+<h2>Hi there <img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">,</h2>
 
 <div align="center" width="50">
 
