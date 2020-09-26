@@ -8,7 +8,7 @@
 <code>CTRL+V Expert 😉</code>
 <code>Feel Free To Kang My Repos😹</code>
 
-<code>Contact Me On <a href="https://t.me/RiDerOO7">Telegram</a>. 😇</code>
+<code>Contact Me On <a href="https://t.me/JBONDO07">Telegram</a>. 😇</code>
 
 ![](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
