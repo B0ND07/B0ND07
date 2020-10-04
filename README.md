@@ -4,8 +4,8 @@
 <div align="center" width="50">
 
 <code>Still Learning Some Thing New.... 😎</code>
-<code>I like doing Nothing:) ❤</code>
-<code>CTRL+V Expert 😉</code>
+<code> I like doing Nothing:) ❤</code>
+<code>CTRL+V Expert😉</code>
 <code>Making Life Easier With Bots😂</code>
 <code>Feel Free To Kang My Repos😹</code>
 
