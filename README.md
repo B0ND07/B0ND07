@@ -19,6 +19,4 @@
 
 <br><img src="https://gpvc.arturio.dev/Hashimkp" alt="Profile views">
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/Hashimkp)](https://badges.pufler.dev)
-
 </div>
