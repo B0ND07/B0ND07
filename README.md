@@ -19,6 +19,4 @@
 
 <br><img src="https://gpvc.arturio.dev/Hashimkp" alt="Profile views">
 
-<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=Hashimkp&style=flat-square" alt="Hashimkp"></p>
-
 </div>
