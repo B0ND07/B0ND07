@@ -19,4 +19,6 @@
 
 <br><img src="https://gpvc.arturio.dev/Hashimkp" alt="Profile views">
 
+<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=dev-harsh1998&style=flat-square" alt="dev-harsh1998"></p>
+
 </div>
