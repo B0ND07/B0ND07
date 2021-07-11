@@ -7,7 +7,7 @@
  <code>I like doing Nothing:) ❤</code>
 <code>CTRL+V Expert😉</code>
 <code>This too shall pass😌</code>
-<code>Feel Free To Kang My Repos😹</code>
+<code>Feel Free To Spectate My Repos😹</code>
 
 <code>Contact Me On <a href="https://t.me/JBONDO7">Telegram</a>. 😇</code>
 
