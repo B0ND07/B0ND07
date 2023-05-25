@@ -4,14 +4,14 @@
 <div align="center" width="50">
 
 <code>Still Learning Some Thing New....  😎</code>
-<code>This too shall pass😌</code>
-<code>Feel Free To Spectate My Repos😹</code>
+#<code>This too shall pass😌</code>
+#<code>Feel Free To Spectate My Repos😹</code>
 
 <code>Contact Me On <a href="https://t.me/JBONDO7">Telegram</a>. 😇</code>
 
 ![](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
-<b>Skills :</b> <code>Pirate</code> | <code>Peace</code> | <code>Deep Scan</code> | <code>Forker</code> | <code>VIP</code>
+#<b>Skills :</b> <code>Pirate</code> | <code>Peace</code> | <code>Deep Scan</code> | <code>Forker</code> | <code>VIP</code>
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=B0ND07&hide=prs,issues&show_icons=true&title_color=56ec99&text_color=ececec&icon_color=00ffba&bg_color=2c2a2a" alt="svr's github stats">
 
