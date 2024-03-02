@@ -3,7 +3,7 @@
 
 <div align="center" width="50">
 
-<code>Still Learning Some Thing New....  😎</code>
+<code>Still Learning Some Thing New....  </code>
 
 
 <code>Contact Me On <a href="https://t.me/JBONDO7">Telegram</a>. 😇</code>
