@@ -8,9 +8,9 @@
 
 <code>Contact Me On <a href="https://t.me/JBONDO7">Telegram</a>. 😇</code>
 
-![](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
+<!-- ![](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif) -->
 
-<br><img src="https://github-readme-stats.vercel.app/api?username=B0ND07&hide=prs,issues&show_icons=true&title_color=56ec99&text_color=ececec&icon_color=00ffba&bg_color=2c2a2a" alt="svr's github stats">
+<br><img src="https://github-readme-stats.vercel.app/api?username=B0ND07&hide=prs,issues&show_icons=true&title_color=56ec99&text_color=ececec&icon_color=00ffba&bg_color=2c2a2a" alt="b0nd07's github stats">
 
 <br>![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
